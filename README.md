@@ -24,7 +24,7 @@ All data used is **dummy/demo**, created only to showcase methodology and logic.
 📄 Output:  
 `01_kpis_otif/outputs/otif_summary.csv`
 
-![OTIF KPI](assets/01_otif.png)
+![OTIF KPI](assets/01_otif_real_png)
 
 ---
 
@@ -36,7 +36,7 @@ All data used is **dummy/demo**, created only to showcase methodology and logic.
 📄 Output:  
 `02_inventory_abc_rop/outputs/abc_rop.csv`
 
-![ABC ROP](assets/02_abc_rop.png)
+![ABC ROP](assets/02_abc_rop_real.png)
 
 ---
 
@@ -48,7 +48,7 @@ All data used is **dummy/demo**, created only to showcase methodology and logic.
 📄 Output:  
 `03_report_automation/outputs/weekly_stock_report.xlsx`
 
-![Weekly Stock](assets/03_weekly_stock.png)
+![Weekly Stock](assets/03_weekly_stock_real.png)
 
 ---
 
